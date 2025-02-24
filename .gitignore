@@ -1,0 +1,6 @@
+# Ignore sensitive files.env
+credentials.json
+
+# Ignore build artifacts
+__pycache__/
+*.pyc
